@@ -1,0 +1,14 @@
+.hg/
+Debug/
+Release/
+USB_app/
+USB_API/
+USB_config/
+driverlib/
+targetConfigs/
+.launches/
+.settings/
+.ccsproject
+.cproject
+.project
+lnk_msp430f5529.cmd
